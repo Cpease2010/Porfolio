@@ -1,20 +1,31 @@
-.green{
-    height: 100px;
-    background: green
+.laptop{
+    background: green;
 }
-.red{
-        height: 100px;
+.mobile{
     background: red;
 }
-.blue{
-        height: 100px;
+.galaxy{
     background: blue;
 }
-.orange{
-        height: 100px;
+.tablet{
     background: orange;
 }
-.purple{
-        height: 100px;
+.contact{
     background: purple;
 }
+.bottomLeftRow{
+background: purple;
+}
+.topLeftRow{
+    background: yellow;
+}
+.bottomRightRow{
+    background: purple;
+    }
+    .topRightRow{
+        background: yellow;
+    }
+    p{
+        padding: 10px;
+        text-align: center;
+    }
