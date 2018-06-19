@@ -13,18 +13,6 @@
 .contact{
     background: purple;
 }
-.bottomLeftRow{
-background: purple;
-}
-.topLeftRow{
-    background: yellow;
-}
-.bottomRightRow{
-    background: purple;
-    }
-    .topRightRow{
-        background: yellow;
-    }
     p{
         padding: 10px;
         text-align: center;
